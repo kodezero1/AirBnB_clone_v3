@@ -157,6 +157,5 @@ No known bugs at this time.
 Miracle Okafor - [Github](https://github.com/mddon)  
 Samuel Adeoluwa - [Github](https://github.com/kodezero1)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
