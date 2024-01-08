@@ -1,5 +1,3 @@
-edit this github readme file to: 1. Authors should be Samuel Adeoluwa and Miracle Okafor 2. Rewrite the readme info but don't ,ake it too different from the original 3. Authors links should be samadeol03@gmail.com and mmrealworld@yahoo.com
-
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
